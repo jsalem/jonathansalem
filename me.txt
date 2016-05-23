@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 save
+=======
+sampletxt
+>>>>>>> f8610b8daea285073d66990eb3db7eae483d1758
+
+sample text
